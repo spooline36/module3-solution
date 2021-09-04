@@ -1,0 +1,69 @@
+<style>
+/********** Base styles **********/
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  margin-bottom: 20px;
+  text-align: center;
+  font-family: Times New Roman;
+  font-size: 50px;
+}
+
+#header-nav {
+	border-radius: 0;
+	border: 0;
+}
+
+.navbar-brand {
+	padding-top: 25px;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 1.5em;
+	text-shadow: 1px 1px 1px 1px #222;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	line-height: .75;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+
+#label1 { 
+  text-align: center;
+  color: black;
+  font-size: 2em;
+  font-family: bold Times New Roman;
+}
+
+#a {
+  background-color: lightgrey;
+  border: 1px solid black;
+}
+
+#nav-list {
+  margin-top: 10p;
+}
+
+#nav-list a {
+  text-align: center;
+}
+
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+#nav-list a:hover {
+  background-color: whitesmoke;
+}
+
+#sty {
+  clear: right;
+  border: 10px;
+  padding: 10px;
+  font-family: Times New Roman;
+}
+
+<style/>
